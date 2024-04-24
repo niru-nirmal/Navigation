@@ -1,0 +1,30 @@
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .profile-card {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .profile-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .map-container {
+    width: 600px;
+    margin: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  

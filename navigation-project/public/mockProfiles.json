@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "description": "He is John from New York",
+      "address": "New York, NY",
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "description": "He is Jane from Los Angeles",
+      "address": "Los Angeles, CA",
+      "lat": 34.0522,
+      "lng": -118.2437
+    }
+  ]
+  
